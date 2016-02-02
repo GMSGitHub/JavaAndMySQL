@@ -18,7 +18,7 @@ public class DataBaseWorker {
 
     private static final String URL = "jdbc:mysql://localhost:3306/TestDataBase";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "2392";
+    private static final String PASSWORD = "root";
 
     private static int id;
     private static String login;
